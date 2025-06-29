@@ -4,7 +4,7 @@ from telegram import Bot, Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackQueryHandler, CallbackContext
 
 # Конфигурация
-TOKEN = 'YOUR_BOT_TOKEN_HERE'
+TOKEN = '7730411882:AAHYzufvvnz-0mRPvUvdGbTAJCVEuy5W51Y'
 ADMIN_ID = 7605086289
 DB_NAME = 'database.db'
 WELCOME_VOICE = 'welcome.ogg'
